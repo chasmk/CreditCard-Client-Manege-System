@@ -1,10 +1,11 @@
 # 信用卡管理系统
 
-C++课程设计
+> C++课程设计 在控制台运行，里面使用了带哨兵的链表，有查找，排序，插入，删除等操作。
 
 ## 主要功能
 
 ![111](https://raw.githubusercontent.com/chasmk/img/main/1111.png)
+
 
 ## 运行时出现的问题
 如果运行时出现``` error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. ``` 错误
