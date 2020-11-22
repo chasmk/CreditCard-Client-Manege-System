@@ -6,6 +6,9 @@
 
 ![111](https://raw.githubusercontent.com/chasmk/img/main/1111.png)
 
+## 类
+
+
 
 ## 运行时出现的问题
 如果运行时出现``` error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. ``` 错误
