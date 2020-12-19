@@ -22,7 +22,7 @@ public:
 	void cost_money(); // 消费金额
 	void exchange_points();//信用积分兑换
 	void new_card(CreditCard* );//新建信用卡
-	C_Card_list c;//客户卡包
+	C_Card_list c;//客户卡包(只保存信用卡的指针)
 protected:
 	String pwd;//密码
 	String client_id;//客户账号
